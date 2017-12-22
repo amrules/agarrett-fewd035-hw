@@ -326,16 +326,16 @@ h5 {
   min-width: 350px;
 }
 
-.button-link:hover {
-  background-color: #07AAE3;
-  border-color: #07AAE3;
-  box-shadow: 0px 10px 2px -2px #257895;
-}
-
 @media (max-width: 500px) {
   .button-link {
     min-width: 200px;
   }
+}
+
+.button-link:hover {
+  background-color: #07AAE3;
+  border-color: #07AAE3;
+  box-shadow: 0px 10px 2px -2px #257895;
 }
 
 .grey {
